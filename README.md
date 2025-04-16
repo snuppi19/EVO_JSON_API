@@ -2,6 +2,9 @@
 ---
 ## Mô tả 
 Đây là project luyện tập bài tập cơ bản về việc lấy API từ 1 nguồn khác và hiện thị rồi sử dụng vào tác vụ gì đó
+2 cách :
+ * HttpURLconnection
+ * HttpClient
 ## Yêu cầu 
 * Java [Phiên bản 17]
 * Sử dụng Maven
