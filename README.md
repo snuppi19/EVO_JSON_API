@@ -9,7 +9,7 @@
 ## Tải & Cài đặt 
 1. Clone repository
 ```
-https://github.com/snuppi19/EVO.git
+https://github.com/snuppi19/EVO_JSON_API.git
 ```
 3. Tải dependencies
  * backend
