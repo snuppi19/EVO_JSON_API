@@ -1,7 +1,7 @@
 # EVO_JSON_API_TEST
 ---
 ## Mô tả 
-Đây là project luyện tập bài tập cơ bản về việc lấy API từ 1 nguồn khác và hiện thị rồi sử dụng vào tác vụ gì đó
+Đây là project luyện tập bài tập cơ bản về việc lấy API từ 1 nguồn khác và hiện thị rồi sử dụng vào tác vụ cơ bản
 --
 2 cách :
  * HttpURLconnection
